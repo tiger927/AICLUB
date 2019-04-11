@@ -1,4 +1,4 @@
-# AICLUB_AGENDA
+# AICLUB AGENDA
 1. Setup the projector (*I did not even set it up yet, so finger cross that this won't take the entire period*)
 
 2. Vote on team name (*Not everybody is gonna be there, so might just be temporary*)

@@ -2,13 +2,13 @@
 
 ## ~~1. setup basic environment~~
 
-## 2. basic programming concepts (loops operations variables functions)
+## 2. basic programming concepts (loops operations variables functions) (4/25)
 1. Variables ()
 2. Operations ()
 3. Loops ()
 4. Functions ()
 
-## 3. Introduction to Basic Accounts and Project 1
+## 3. Introduction to Basic Accounts and Project 1 (5/2)
 1. Github ()
 2. Project 1 ()
 

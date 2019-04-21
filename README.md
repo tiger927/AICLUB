@@ -8,7 +8,7 @@
 3. Loops ()
 4. Functions ()
 
-## 3. Introduction to Basic Accounts and Project 1 (5/2)
+## 3. Introduction to Coding Resources and Project 1 (5/2)
 1. Github ()
 2. Project 1 ()
 

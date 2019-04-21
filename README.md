@@ -8,4 +8,15 @@
 3. Loops ()
 4. Functions ()
 
-## 3. 
+## 3. Introduction to Basic Accounts and Project 1
+1. Github ()
+2. Project 1 ()
+
+
+## 4. End of Project 1 and Advance Programming Concepts (objects) Introduction to P5JS
+
+## 5. Processing(Java) and Introduction to AI(Brute Force)
+
+## 6. Introduction to algorithms(BFS-DFS) and data structure
+
+## 7. Coding Contest!

@@ -2,12 +2,15 @@
 
 ## ~~1. setup basic environment and address club problems and ideology~~ DONE!!!
 
-## 2. basic programming concepts (loops operations variables functions) (4/25)
+## ~~2. basic programming concepts (loops operations variables functions) (4/25)~~
+
 ~~1. Variables (√)~~
 
 ~~2. Operations (√)~~
-3. Loops ()
-4. Functions ()
+
+~~3. Loops (√)~~
+
+~~4. Functions ()~~
 
 ## 3. Introduction to Coding Resources and Project 1 (5/2)
 1. Github ()

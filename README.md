@@ -10,7 +10,7 @@
 
 ~~3. Loops (√)~~
 
-~~4. Functions ()~~
+~~4. Functions (√)~~
 
 ## 3. Introduction to Coding Resources and Project 1 (5/2)
 1. Github ()

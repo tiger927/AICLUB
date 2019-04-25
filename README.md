@@ -4,7 +4,8 @@
 
 ## 2. basic programming concepts (loops operations variables functions) (4/25)
 ~~1. Variables (√)~~
-2. Operations ()
+
+~~2. Operations (√)~~
 3. Loops ()
 4. Functions ()
 
